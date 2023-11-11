@@ -11,3 +11,6 @@ The `AWS_Security_Best_Practices.pdf` covers a range of topics, including:
 - :lock_with_ink_pen: Data Encryption
 - :mag: Monitoring and Logging
 - :balance_scale: Other AWS Security Best Practices that I recommend
+
+
+Stay Secure in the Cloud!! :cloud_with_lightning_and_rain:
