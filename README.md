@@ -10,10 +10,5 @@ The `AWS_Security_Best_Practices.pdf` covers a range of topics, including:
 - :shield: Network Security
 - :lock_with_ink_pen: Data Encryption
 - :mag: Monitoring and Logging
-- :balance_scale: Compliance and Governance
+- :balance_scale: Other AWS Security Best Practices that I recommend
 
-## :arrow_down: Installation
-Download the PDF by cloning this repo or directly from GitHub.
-
-Clone with:
-```bash
